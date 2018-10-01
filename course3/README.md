@@ -1,0 +1,4 @@
+- Understand how to diagnose errors in a machine learning system, and 
+- Be able to prioritize the most promising directions for reducing error
+- Understand complex ML settings, such as mismatched training/test sets, and comparing to and/or surpassing human-level performance
+- Know how to apply end-to-end learning, transfer learning, and multi-task learning
