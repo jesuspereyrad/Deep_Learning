@@ -3,11 +3,12 @@
 This repository has all the assigments from coursera deeplearning specialization with andrew ng.
 I begin this specialization on September 2018 to gain more knowledge in deep learning.
 
-## Neural Networks and Deep Learning 
-  * [Week 1](https://github.com/jesuspereyrad/Deep_Learning/tree/course1/course1/week2)
-  * Week 2
-  * Week 3
-  * Week 4
+## Neural Networks and Deep Learning
+  * [Overview](https://github.com/jesuspereyrad/Deep_Learning/tree/course1/course1)
+  * Week 1
+  * [Week 2](https://github.com/jesuspereyrad/Deep_Learning/tree/course1/course1/week2)
+  * [Week 3](https://github.com/jesuspereyrad/Deep_Learning/tree/course1/course1/week3)
+  * [Week 4]((https://github.com/jesuspereyrad/Deep_Learning/tree/course1/course1/week4)
   
 ## Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
   * Week 1
