@@ -1,3 +1,9 @@
+# Structuring Machine Learning Projects
+
+About this course: You will learn how to build a successful machine learning project. If you aspire to be a technical leader in AI, and know how to set direction for your team's work, this course will show you how.
+
+Much of this content has never been taught elsewhere, and is drawn from my experience building and shipping many deep learning products. This course also has two "flight simulators" that let you practice decision-making as a machine learning project leader. This provides "industry experience" that you might otherwise get only after years of ML work experience.
+
 - Understand how to diagnose errors in a machine learning system, and 
 - Be able to prioritize the most promising directions for reducing error
 - Understand complex ML settings, such as mismatched training/test sets, and comparing to and/or surpassing human-level performance
